@@ -1,0 +1,13 @@
+{
+  "name": "css-colors",
+  "version": "0.0.1",
+  "description": "Grab color and background-color from list of sites.",
+  "main": "css_colors.js",
+  "author": "NAT <nat@magicnat.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.1",
+    "get-css": "^1.2.3"
+  },
+  "repository": "https://github.com/Nat-Lab/css-colors.git"
+}
